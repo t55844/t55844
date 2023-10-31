@@ -1,7 +1,5 @@
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=t55844)](https://git.io/streak-stats)
 
 ## My Skills
 
